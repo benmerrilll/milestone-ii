@@ -1,0 +1,59 @@
+STATEFP,COUNTYFP,NAMELSAD,county_name,agglom_ward_cluster,agglom_complete_cluster,agglom_average_cluster,agglom_single_cluster,kmeans_3_cluster,kmeans_5_cluster,dbscan_1_4_cluster,dbscan_1_5_cluster,kmeans_pca_cluster
+06,091,Sierra County,sierra,0,1,0,0,2,0,2,2,1
+06,067,Sacramento County,sacramento,2,3,0,0,1,2,2,2,0
+06,083,Santa Barbara County,santa barbara,1,0,1,0,0,1,0,0,2
+06,009,Calaveras County,calaveras,0,1,0,0,2,0,2,2,1
+06,111,Ventura County,ventura,1,0,1,0,0,1,0,0,2
+06,037,Los Angeles County,los angeles,1,0,4,0,0,1,7,6,2
+06,097,Sonoma County,sonoma,1,0,1,0,0,1,0,0,2
+06,031,Kings County,kings,2,3,0,0,1,2,2,2,0
+06,073,San Diego County,san diego,1,0,1,0,0,1,0,0,2
+06,061,Placer County,placer,0,1,0,0,2,0,2,2,1
+06,075,San Francisco County,san francisco,1,4,2,0,0,3,11,8,2
+06,041,Marin County,marin,1,4,1,0,0,3,8,0,2
+06,043,Mariposa County,mariposa,0,1,0,0,2,0,2,2,1
+06,035,Lassen County,lassen,0,1,0,0,2,0,6,5,1
+06,055,Napa County,napa,1,0,1,0,0,1,0,0,2
+06,089,Shasta County,shasta,0,1,0,0,2,0,2,2,1
+06,053,Monterey County,monterey,1,0,1,0,0,1,0,0,2
+06,105,Trinity County,trinity,0,1,0,0,2,0,13,9,1
+06,045,Mendocino County,mendocino,0,1,0,0,2,0,4,3,1
+06,027,Inyo County,inyo,0,1,0,0,2,0,2,2,1
+06,051,Mono County,mono,0,1,0,0,2,0,9,7,1
+06,109,Tuolumne County,tuolumne,0,1,0,0,2,0,2,2,1
+06,095,Solano County,solano,1,0,1,0,0,3,0,0,2
+06,071,San Bernardino County,san bernardino,2,3,0,0,1,2,2,2,0
+06,013,Contra Costa County,contra costa,1,0,1,0,0,3,0,0,2
+06,003,Alpine County,alpine,0,2,3,1,2,4,1,1,1
+06,017,El Dorado County,el dorado,0,1,0,0,2,0,2,2,1
+06,113,Yolo County,yolo,2,3,0,0,1,2,2,2,0
+06,115,Yuba County,yuba,2,3,0,0,1,2,2,2,0
+06,069,San Benito County,san benito,1,0,1,0,0,1,0,0,2
+06,023,Humboldt County,humboldt,0,1,0,0,2,0,4,3,1
+06,065,Riverside County,riverside,2,3,0,0,1,2,2,2,0
+06,029,Kern County,kern,2,3,0,0,1,2,2,2,0
+06,011,Colusa County,colusa,2,3,0,0,1,2,2,2,0
+06,015,Del Norte County,del norte,0,1,0,0,2,0,3,3,1
+06,049,Modoc County,modoc,0,1,0,0,2,0,2,2,1
+06,019,Fresno County,fresno,2,3,0,0,1,2,2,2,0
+06,039,Madera County,madera,2,3,0,0,1,2,2,2,0
+06,085,Santa Clara County,santa clara,1,4,1,0,0,3,12,0,2
+06,103,Tehama County,tehama,2,1,0,0,2,0,2,2,1
+06,077,San Joaquin County,san joaquin,2,3,0,0,1,2,2,2,0
+06,001,Alameda County,alameda,1,0,1,0,0,3,0,0,2
+06,057,Nevada County,nevada,0,1,0,0,2,0,10,2,1
+06,007,Butte County,butte,0,1,0,0,2,0,2,2,1
+06,047,Merced County,merced,2,3,0,0,1,2,2,2,0
+06,107,Tulare County,tulare,2,3,0,0,1,2,2,2,0
+06,099,Stanislaus County,stanislaus,2,3,0,0,1,2,2,2,0
+06,059,Orange County,orange,1,0,1,0,0,1,0,0,2
+06,025,Imperial County,imperial,2,3,0,0,1,2,5,4,0
+06,101,Sutter County,sutter,2,3,0,0,1,2,2,2,0
+06,005,Amador County,amador,0,1,0,0,2,0,2,2,1
+06,033,Lake County,lake,0,1,0,0,2,0,2,2,1
+06,063,Plumas County,plumas,0,1,0,0,2,0,2,2,1
+06,081,San Mateo County,san mateo,1,4,1,0,0,3,12,0,2
+06,093,Siskiyou County,siskiyou,0,1,0,0,2,0,2,2,1
+06,087,Santa Cruz County,santa cruz,1,0,1,0,0,1,0,0,2
+06,021,Glenn County,glenn,2,1,0,0,1,2,2,2,0
+06,079,San Luis Obispo County,san luis obispo,1,0,1,0,0,1,0,0,2
