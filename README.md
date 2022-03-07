@@ -4,9 +4,11 @@ Welcome to our predicting county population changes project! This project was co
 For extensive documentation, see the Final Project pdf. This is where you will find the project presentation, purpose, and visualizations.
 
 In this repo, we have things like clustering algorithms:
+
 [![California County Clusters](https://github.com/benmerrilll/predicting_county_population_changes_california/blob/main/images/kmeans.png)]
 
 and Principal Component Analysis:
+
 [![PC Biplot](https://github.com/benmerrilll/predicting_county_population_changes_california/blob/main/images/pca_biplot.png)]
 
 Note:
