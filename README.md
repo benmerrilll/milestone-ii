@@ -1,4 +1,4 @@
-# Predicting California County Changes
+# Predicting California County Population Changes
 Welcome to our predicting county population changes project! This project was completed by Elizabeth Giancola, Kim Di Camillo, and Ben Merrill as a part of their Master of Applied Data Science program.
 
 For extensive documentation, see the Final Project pdf. This is where you will find the project presentation, purpose, and visualizations.
